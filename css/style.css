@@ -150,11 +150,6 @@ img {
     gap: 50px;
   }
 
-  img {
-    height: 100%;
-    width: 100%;
-  }
-
   .lessons .col,
   .row .col {
     width: 100%;
